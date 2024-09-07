@@ -239,3 +239,5 @@ SQL (Structured Query Language) is a standardized programming language used for 
    ![Alt Text](./images/cross_join.png)
 
 ---
+
+``` Happy testing! ```
